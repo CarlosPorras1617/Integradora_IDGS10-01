@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Integradora Back",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "CP",
   "license": "ISC",
   "dependencies": {
